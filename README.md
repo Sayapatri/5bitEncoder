@@ -11,4 +11,4 @@ Please download and install in advance.<br/>
 
 To "install" a library simply "place" the unzipped folder inside the library folder. If the folders are duplicated when decompressed, place only the inner folders.
 
-Go to the Wiki link [here]() to for further information 
+Go to the Wiki link [here](https://github.com/Sayapatri/Baudot_Encoder/wiki) to for further information 
