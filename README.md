@@ -2,7 +2,7 @@
 
 Generate "5 bit BAUDOT code" with Arduino 
 
-INSTALL LIBRARY
+INSTALL LIBRARY IN ARDUINO
 
 Please download and install in advance.<br/>
 (1) ["TimerOne" Library](https://playground.arduino.cc/code/timer1/) <br/>
