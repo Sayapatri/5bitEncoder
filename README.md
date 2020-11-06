@@ -1,6 +1,6 @@
 # 5bitEncoder
 
-Generate "5 bit BAUDOT code" with Arduino 
+Generate "5 bit BAUDOT code" with Arduino with PS2Keyboard as input data 
 
 INSTALL LIBRARY IN ARDUINO DIRECTORY
 
