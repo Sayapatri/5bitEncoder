@@ -10,3 +10,5 @@ Please download and install in advance.<br/>
 (3) ["PS2keyboard" Library"](https://playground.arduino.cc/Main/PS2Keyboard/)<br/>
 
 To "install" a library simply "place" the unzipped folder inside the library folder. If the folders are duplicated when decompressed, place only the inner folders.
+
+Go to the Wiki link [here]() to for further information 
