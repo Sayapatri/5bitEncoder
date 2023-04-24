@@ -2,7 +2,7 @@
 
 Generate "5 bit BAUDOT code" with Arduino and PS2Keyboard as input data. It supports real-time input from the keyboard as it can be used for actual communication of amateur radio.
 
-INSTALL LIBRARY IN ARDUINO DIRECTORY
+INSTALL LIBRARY IN ARDUINO DIRECTORY.
 
 Please download and install in advance.<br/>
 (1) ["TimerOne" Library](https://playground.arduino.cc/code/timer1/) <br/>
