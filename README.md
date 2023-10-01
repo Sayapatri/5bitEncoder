@@ -1,4 +1,4 @@
-# 5bitEncoder
+# 5bitEncoder//
 
 Generate "5 bit BAUDOT code" with Arduino and PS2Keyboard as input data. It supports real-time input from the keyboard as it can be used for actual communication of amateur radio.
 
